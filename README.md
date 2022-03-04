@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou José Almino de Araújo Junior</h1>
+<h1 align="center">Olá 👋, eu sou José!</h1>
 <h3 align="center">Aqui você encontra projetos de Infra, Cloud e um pouco de DEV</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josearaujojr&label=Profile%20views&color=0e75b6&style=flat" alt="josearaujojr" /> </p>
