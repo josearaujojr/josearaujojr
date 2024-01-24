@@ -9,8 +9,6 @@
 
 - 👨‍💻 Todos os meus projetos (processo de atualização) estão disponíveis em [https://github.com/josearaujojr](https://github.com/josearaujojr)
 
-- 💬 Pergunte-me sobre **TI em geral**
-
 - 📫 Contato: **jose.almino.jr@gmail.com**
 
 - 📄 Sobre mim: [https://www.linkedin.com/in/josé-almino/](https://www.linkedin.com/in/josé-almino/)
