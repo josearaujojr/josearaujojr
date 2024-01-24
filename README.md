@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josearaujojr&label=Profile%20views&color=0e75b6&style=flat" alt="josearaujojr" /> </p>
 
-- 🔭 No momento estou trabalhando com **Linux, Windows Server e AWS**
+- 🔭 No momento estou trabalhando com **AWS, Azure, Docker, IaC**
 
-- 🌱 Atualmente estou me aperfeiçoando em **Zabbix, AWS e Docker**
-
-- 👯 Procuro colaborar com **Projetos de TI em geral**
+- 👋 Procuro colaborar com **Projetos de TI em geral**
 
 - 👨‍💻 Todos os meus projetos (processo de atualização) estão disponíveis em [https://github.com/josearaujojr](https://github.com/josearaujojr)
 
@@ -19,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/josearaujo.jr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josearaujo.jr" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josearaujo.jr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
