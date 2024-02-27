@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josearaujojr&label=Profile%20views&color=0e75b6&style=flat" alt="josearaujojr" /> </p>
 
-- 🔭 No momento estou trabalhando com **AWS, Azure, Docker, IaC**
-
 - 👋 Procuro colaborar com **Projetos de TI em geral**
 
 - 👨‍💻 Todos os meus projetos (processo de atualização) estão disponíveis em [https://github.com/josearaujojr](https://github.com/josearaujojr)
